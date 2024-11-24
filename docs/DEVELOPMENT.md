@@ -7,4 +7,5 @@
   - AlienorCinema.Shared - Sharing pages
   - AlienorCinema.Web - Blazor Web App
 - Backend
+  - AlienorCinema.Web.Client - Blazor Server
   - AlienorCinema.Api - Web API
