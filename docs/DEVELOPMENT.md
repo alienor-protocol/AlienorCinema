@@ -3,8 +3,8 @@
 ## Project Structure
 
 - Frontend
-  - Alienor - MAUI Native App
-  - Alienor.Shared - Sharing pages
-  - Alienor.Web - Blazor Web App
+  - AlienorCinema - MAUI Native App
+  - AlienorCinema.Shared - Sharing pages
+  - AlienorCinema.Web - Blazor Web App
 - Backend
-  - Alienor.Api - Web API
+  - AlienorCinema.Api - Web API

@@ -1,3 +1,3 @@
-# Aliénor Central
+# Aliénor Cinema
 
-**The Eleanor Central Cinema** is a video streaming platform in your web browser.
+**The Aliénor Cinema** is a video streaming platform in your web browser.
